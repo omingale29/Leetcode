@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/omingale29/Leetcode/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/omingale29/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
