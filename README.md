@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omingale29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/omingale29/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
